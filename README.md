@@ -11,7 +11,7 @@
 ![bottoms](./images/bottoms.png)
 
 单击后，跳出弹窗，填入以下信息：
-- organization name: **Jia-Gorilla-Lab**
+- organization name: **Gorilla-Lab-SCUT**
 - type confirm: **your repository name**
 
 ![confirm](./images/confirm.png)
