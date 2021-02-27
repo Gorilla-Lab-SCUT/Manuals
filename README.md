@@ -2,6 +2,8 @@
 该手册目的旨在让同学们学会将自己的项目仓库转让给实验室的组织账号名下。
 该教程参考了GitHub[官方教程](https://docs.github.com/cn/github/administering-a-repository/transferring-a-repository)，同学们可以前往该网页查看细节。
 
+第一步是联系管理员申请加入组织，这一步需要提供Github注册所用的邮箱，然后进行以下操作。
+
 首先进入项目仓库，点击 `settings` 进入仓库设置：
 
 ![settings](./images/settings.png)
